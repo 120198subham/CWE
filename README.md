@@ -28,4 +28,3 @@ Run multiple threads which implements CRUD operations. Try using multiple thread
 ## Day 6 - 18-09-2019
 Write code by using regular expressions to perform validation
 Done Validation for Email
--
