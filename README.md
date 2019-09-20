@@ -1,4 +1,4 @@
-# CWE
+# Corporate Welfare Employee
  
 ## About Environmental Setup Provied in GitHub Files
 There are 2 main utilites required to execute this project 
